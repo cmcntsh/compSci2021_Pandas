@@ -22,3 +22,5 @@ This is part of a set of pages on introduction to computer science. https://gith
   * You can open a Jupyter Notebook and run Python or R code. https://www.kaggle.com/code (Links to an external site.) 
   * There are discussion boards. https://www.kaggle.com/discussion (Links to an external site.) 
   * There are courses available. https://www.kaggle.com/learn
+* Free statistics text with Python examples https://www.openintro.org/book/os/
+  * GitHub repsitory with Jupyter Notebooks https://github.com/akmand/stats_tutorials
